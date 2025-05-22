@@ -443,3 +443,12 @@
                 display: none;
             }
         }
+      .link {
+  background-color: #0ca707;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+}
