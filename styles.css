@@ -200,6 +200,7 @@
             overflow: hidden;
             border-radius: 5px;
         }
+        .project-box:hover,
         .project-box:hover h3,
         .project-box:hover p {
            background-color: black;
@@ -456,6 +457,7 @@
   display: inline-block;
   border-radius: 20px;
 }
+
 
 
 
