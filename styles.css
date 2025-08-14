@@ -200,7 +200,10 @@
             overflow: hidden;
             border-radius: 5px;
         }
-        
+        .project-box:hover{
+                    background-color:black;
+                    text-color:white;
+        }
         .project-img {
             width: 100%;
             height: 250px;
@@ -452,3 +455,4 @@
   display: inline-block;
   border-radius: 20px;
 }
+
